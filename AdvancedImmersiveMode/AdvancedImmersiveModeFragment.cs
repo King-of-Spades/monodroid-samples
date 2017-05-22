@@ -24,7 +24,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using Android.Support.V4.App;
 using CommonSampleLibrary;
 
 namespace AdvancedImmersiveMode
@@ -34,7 +33,7 @@ namespace AdvancedImmersiveMode
  	* Checkboxes are also made available for toggling other UI flags which can
  	* alter the behavior of immersive mode.
  	*/
-	public class AdvancedImmersiveModeFragment : Android.Support.V4.App.Fragment
+	public class AdvancedImmersiveModeFragment : Fragment
 	{
 		public static readonly String TAG = "AdvancedImmersiveModeFragment";
 		public CheckBox mHideNavCheckbox;
