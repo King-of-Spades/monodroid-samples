@@ -1,4 +1,18 @@
-Popup Menu Demo
-===============
+---
+name: Xamarin.Android - Popup Menu
+description: "Demonstrates how to add support for displaying popup menus that are attached to a particular view"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+urlFragment: popupmenudemo
+---
+# Popup Menu Demo
 
-This example shows how to use a Popup Menu with Ice Cream Sandwich.
+**PopupMenuDemo** is a sample app that accompanies the article,
+[PopUp Menu](https://docs.microsoft.com/xamarin/android/user-interface/controls/popup-menu).
+It demonstrates how to add support for displaying popup menus that are attached to
+a particular view.
+
+![Popup menu in Android](Screenshots/PopupMenuDemo.png)

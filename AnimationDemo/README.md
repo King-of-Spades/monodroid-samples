@@ -1,8 +1,16 @@
-Android Animation Demo
-======================
+---
+name: Xamarin.Android - Android Animation Demo
+description: This sample app accompanies the Graphics and Animations docs
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+urlFragment: animationdemo
+---
+# Android Animation Demo
 
-This sample app accompanies the article, 
-[Graphics and Animations](http://developer.xamarin.com/guides/android/application_fundamentals/graphics_and_animation).
+This sample app accompanies the
+[Graphics and Animations](https://docs.microsoft.com/xamarin/android/app-fundamentals/graphics-and-animation) page.
 
-
-[ ![](Screenshots/example-screens-sml.png)](Screenshots/example-screens.png)
+[![Android screenshot](Screenshots/example-screens-sml.png)](Screenshots/example-screens.png)

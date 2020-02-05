@@ -1,10 +1,18 @@
-ViewPagerIndicator
-==================
+---
+name: Xamarin.Android - ViewPagerIndicator
+description: This is a port of the wonderful ViewPagerIndicator library by JakeWharton
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+urlFragment: viewpagerindicator
+---
+# ViewPagerIndicator
 
 This is a port of the wonderful [ViewPagerIndicator library by JakeWharton][1]
 
-License
-=======
+## License
 
     Copyright 2011 Patrik Åkerfeldt
     Copyright 2011 Francisco Figueiredo Jr.

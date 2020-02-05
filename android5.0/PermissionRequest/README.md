@@ -1,5 +1,17 @@
-Permission Request Sample
-==========================
+---
+name: Xamarin.Android - Permission Request Sample
+description: "How to use the PermissionRequest API to securely provide access to restricted system features, such as a camera or... (Android Lollipop)"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidlollipop
+urlFragment: android50-permissionrequest
+---
+# Permission Request Sample
 
 This sample demonstrates how to use the PermissionRequest API to
 securely provide access to restricted system features (such as a
@@ -7,8 +19,7 @@ camera or microphone) from within a WebView. In this example, a dialog
 is created to allow users to explicitly approve or reject each
 request.
 
-Introduction
-------------
+## Introduction
 
 PermissionRequest can be used by setting up a custom WebChromeClient.
 
@@ -27,8 +38,8 @@ handling cancellation of the PermissionRequest by the web content.
 
 When the user confirms or denies the request, you can respond back to
 the web content by grant or deny respectively.
-Instructions
-------------
+
+## Instructions
 
 * Tap on the "Start" button
 * Grant permission for android.webkit.resource.VIDEO_CAPTURE
@@ -38,19 +49,16 @@ Instructions
 * Do not grant permission for android.webkit.resource.VIDEO_CAPTURE
 * Observe camera does not turn on
 
-Build Requirements
-------------------
+## Build Requirements
+
 Using this sample requires the Android SDK platform for Android 5.0 (API level 21).
 
-Screenshots
--------------
+## Screenshots
 
-<img src="Screenshots/1-permission-request.png" height="400" alt="Screenshot"/> <img src="Screenshots/2-permission-granted.png" height="400" alt="Screenshot"/>
+![Android permission request popup](Screenshots/1-permission-request.png)
 
-Authors
--------
+## License
+
 Copyright (c) 2014 The Android Open Source Project, Inc.
 
 Ported from [Android PermissionRequest Sample](https://github.com/googlesamples/android-permissionRequest)
-
-Ported to Xamarin.Android by Dylan Kelly

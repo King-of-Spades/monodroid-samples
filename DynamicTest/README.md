@@ -1,5 +1,4 @@
-C# Dynamic Test
-===============
+# C# Dynamic Test
 
 This samples makes use of dynamic types in DLR. This sample imports
 System.Json from ASP.NET MVC sources which includes JsonValue.AsDynamic()

@@ -1,22 +1,33 @@
-Toolbar
-==============
+---
+name: Xamarin.Android - Toolbar
+description: "Sample replacing the ActionBar with the new ToolBar (Android Lollipop)"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidlollipop
+urlFragment: android50-toolbar
+---
+# Toolbar
 
 Basic sample of replacing the ActionBar with the new ToolBar.
 
-Instructions
-------------
+## Instructions
 
 * Run the project
 * Click on the Toolbar items to see click handlers
 
-Build Requirements
-------------------
+## Build Requirements
+
 * Xamarin Studio 5.5+
 * Xamarin Android 4.20+
 * Android SDK with Android 5.0
 
-Author
------- 
-Copyright 2014 Xamarin
+![Toolbar application screenshot](Screenshots/MultipleToolbars.png "Toolbar application screenshot")
 
-Created by James Montemagno
+## License
+
+Copyright 2014 Xamarin

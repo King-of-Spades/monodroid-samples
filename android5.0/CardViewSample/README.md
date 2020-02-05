@@ -1,22 +1,33 @@
-CardView
-========
+---
+name: Xamarin.Android - CardView
+description: "Demonstration of the CardView API introduced in Android L. Run the project Adjust the sliders to adjust the elevation... (Android Lollipop)"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidlollipop
+urlFragment: android50-cardviewsample
+---
+# Xamarin.Android CardView
 
 Demonstration of the CardView API introduced in Android L.
 
-Instructions
-------------
+![CardView application screenshot](Screenshots/Adjusted.png "CardView application screenshot")
 
-* Run the project
-* Adjust the sliders to adjust the elevation and corner radius of the CardView
+## Instructions
 
-Build Requirements
-------------------
-* Xamarin Studio 5.3+
-* Xamarin Android 4.17+
-* Android SDK (L Preview)
+- Run the project
+- Adjust the sliders to adjust the elevation and corner radius of the CardView
 
-Author
------- 
-Copyright 2014 The Android Open Source Project
+## Build Requirements
 
-Ported to Xamarin.Android by John Pilczak
+- Xamarin Studio 5.3+
+- Xamarin Android 4.17+
+- Android SDK (L Preview)
+
+## License
+
+Original copyright 2014 The Android Open Source Project

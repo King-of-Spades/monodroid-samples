@@ -1,7 +1,19 @@
-Android Wear Getting Started 
-============================
+---
+name: Xamarin.Android - Android Wear Getting Started
+description: This sample app accompanies the Android Wear article, Getting Started.
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidwear
+urlFragment: wear-weartest
+---
+# Android Wear getting started
 
-This sample app accompanies the Android Wear article, 
-[Getting Started](https://developer.xamarin.com/guides/android/wear/getting-started/).
+This sample app accompanies the Android Wear article,
+[Getting Started](https://docs.microsoft.com/xamarin/android/wear/get-started/).
 
-
+![Android Wear on a watch](Screenshots/screenshot.png)

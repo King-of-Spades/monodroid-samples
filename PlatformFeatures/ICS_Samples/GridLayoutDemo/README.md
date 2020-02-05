@@ -1,7 +1,6 @@
-Grid Layout Demo 
-================
+# Grid Layout Demo
 
-This sample app accompanies the article, 
-[GridLayout](http://developer.xamarin.com/guides/android/user_interface/gridlayout/).
+This sample app accompanies the article,
+[GridLayout](https://docs.microsoft.com/xamarin/android/user-interface/layouts/grid-layout).
 
-
+![Grid layout in Android app](Screenshots/screenshot.png)

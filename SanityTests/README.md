@@ -1,5 +1,4 @@
-Sanity Tests
-============
+# Sanity Tests
 
 SanityTests is a hodgepodge of things to test various interactions,
 such as SQLite use, JNI use, P/Invoke use, SSL, compression, and all

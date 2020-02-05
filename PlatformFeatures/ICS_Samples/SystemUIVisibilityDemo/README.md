@@ -1,7 +1,6 @@
-System UI Visibility Demo 
-=========================
+# System UI Visibility Demo
 
-This sample app accompanies the article, 
-[Navigation Bar](http://developer.xamarin.com/guides/android/user_interface/navigation_bar/).
+This sample app accompanies the article,
+[Navigation Bar](https://docs.microsoft.com/xamarin/android/user-interface/controls/navigation-bar).
 
-
+![Difference navigation bar visibility options in Android app](Screenshots/screenshot.png)

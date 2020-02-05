@@ -1,22 +1,33 @@
-App Restriction Schema
-==============
+---
+name: Xamarin.Android - App Restriction Schema
+description: "This sample shows a basic demonstration of using a profile owner to set app restrictions in Android (Android Lollipop)"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidlollipop
+urlFragment: android50-apprestrictionschema
+---
+# App Restriction Schema
 
 This sample shows a basic demonstration of using a profile owner to set app restrictions in Android. This is to used alongside AppRestrictionEnforcer, which serves as a profile owner for this.
 
-Instructions
-------------
+![App Restriction Schema application screenshot](Screenshots/Not Restricted.png "App Restriction Schema application screenshot")
 
-* Run the project
-* Pressing the button on this fragment pops up a simple Toast message. The button is enabled or disabled according to the restrictions set by device/profile owner. You can use the AppRestrictionEnforcer sample as a profile owner for this.
+## Instructions
 
-Build Requirements
-------------------
-* Xamarin Studio 5.3+
-* Xamarin Android 4.20+
-* Android SDK (Lollipop)
+- Run the project
+- Pressing the button on this fragment pops up a simple Toast message. The button is enabled or disabled according to the restrictions set by device/profile owner. You can use the AppRestrictionEnforcer sample as a profile owner for this.
 
-Author
------- 
-Copyright 2014 The Android Open Source Project
+## Build Requirements
 
-Ported to Xamarin.Android by John Pilczak
+- Xamarin Studio 5.3+
+- Xamarin Android 4.20+
+- Android SDK (Lollipop)
+
+## License
+
+Original copyright 2014 The Android Open Source Project

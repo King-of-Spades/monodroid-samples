@@ -1,6 +1,5 @@
-Rotation Demo
-=============
+# Rotation Demo
 
-This is the sample code for the article Handling Rotation.
+Use [ApplicationFundamentals/RotationDemo](https://github.com/xamarin/monodroid-samples/tree/master/ApplicationFundamentals/RotationDemo/RotationDemo) instead.
 
-It shows various techniques for working with device orientation changes in Mono for Android.
+See the article [Handling Rotation](https://docs.microsoft.com/xamarin/android/app-fundamentals/handling-rotation) for more information

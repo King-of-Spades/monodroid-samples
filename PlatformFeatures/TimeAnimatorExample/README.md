@@ -1,7 +1,19 @@
-Jelly Bean Time Animation 
-=========================
+---
+name: Xamarin.Android - Time Animation
+description: "TimeAnimator can notify an application every time a frame changes in an animation (Android Jelly Bean)"
+page_type: sample
+languages:
+- csharp
+products:
+- xamarin
+extensions:
+    tags:
+    - androidjellybean
+urlFragment: platformfeatures-timeanimatorexample
+---
+# Jelly Bean Time Animation
 
-This sample app accompanies the article, 
-[Introduction to Jelly Bean](http://developer.xamarin.com/guides/android/platform_features/introduction_to_jelly_bean/).
+The new TimeAnimator class provides an interface `TimeAnimator.ITimeListener` that can notify an application every time a frame changes in an animation.
 
-
+This sample app accompanies the article,
+[Introduction to Jelly Bean](https://docs.microsoft.com/xamarin/android/platform/jelly-bean).
